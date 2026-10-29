@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">YouJcam</string>
+    <string name="mode_photo">Фото</string>
+    <string name="mode_video">Видео</string>
+    <string name="flash">Вспышка</string>
+    <string name="switch_camera">Сменить камеру</string>
+    <string name="shutter">Затвор</string>
+    <string name="saved_photo">Фото сохранено</string>
+    <string name="saved_video">Видео сохранено</string>
+    <string name="error_photo">Не удалось сохранить фото</string>
+    <string name="error_video">Не удалось начать запись видео</string>
+    <string name="error_camera">Камера недоступна</string>
+    <string name="need_perms">Нужен доступ к камере и памяти, чтобы снимать</string>
+
+    <string name="settings">Настройки</string>
+    <string name="back">Назад</string>
+    <string name="zoom">Зум</string>
+    <string name="settings_photo">Качество фото</string>
+    <string name="settings_video">Качество видео</string>
+    <string name="settings_models">Модели и зум</string>
+    <string name="settings_models_hint">Мегапиксели, видео и максимальный зум каждой модели. Реальный зум ограничен возможностями камеры вашего телефона.</string>
+    <string name="q_auto_switch">Как у выбранной модели</string>
+    <string name="q_auto_short">авто</string>
+    <string name="q_auto_desc">Качество задаёт выбранная модель: мегапиксели, видео и зум как у неё.</string>
+    <string name="q_worst_hint">Худшее</string>
+    <string name="q_best_hint">Лучшее</string>
+    <string name="q_worst">Минимум</string>
+    <string name="q_low">Низкое</string>
+    <string name="q_mid">Среднее</string>
+    <string name="q_high">Высокое</string>
+    <string name="q_best">Максимум</string>
+</resources>

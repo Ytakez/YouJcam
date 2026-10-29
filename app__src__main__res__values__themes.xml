@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Material 3 с более «выразительной» формой: крупные скругления, пилюли -->
+    <style name="Theme.YouJcam" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="shapeAppearanceSmallComponent">@style/Shape.YouJcam.Small</item>
+        <item name="shapeAppearanceMediumComponent">@style/Shape.YouJcam.Medium</item>
+        <item name="shapeAppearanceLargeComponent">@style/Shape.YouJcam.Large</item>
+    </style>
+
+    <style name="Shape.YouJcam.Small" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item>
+    </style>
+    <style name="Shape.YouJcam.Medium" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">20dp</item>
+    </style>
+    <style name="Shape.YouJcam.Large" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">28dp</item>
+    </style>
+</resources>
